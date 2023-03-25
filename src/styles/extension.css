@@ -1,0 +1,14 @@
+.box{
+  background-color: #ffde00;
+  border-radius: 25px;
+  min-width: 200px;
+  min-height: 100px;
+}
+
+p{
+  color: black;
+}
+
+#outlined-basic{
+  width:100px;
+}
